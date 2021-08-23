@@ -1,0 +1,1 @@
+CREATE TABLE Atendimentos (id int NOT NULL AUTO_INCREMENT, client varchar(50) NOT NULL, pet varchar(20), servico varchar(20) NOT NULL, status varchar(20) NOT NULL, obervacoes text, PRIMARU KEY(id))')
